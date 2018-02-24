@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 ffdddddddaaasssasaddsfasdfsadf
 ffffff
 
 ggg
+=======
+dddddd
+>>>>>>> ac11548be9ef18e2dc3fb2e27530ffc599af91c4
+
+
+
+ff
